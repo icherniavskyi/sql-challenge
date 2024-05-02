@@ -13,7 +13,7 @@ The folder contains three files needed for code's execution and better understan
 
   1. In order to execute the script, create a respective database in PostgreSQL. Run Query Tool on created database and paste the script from schemata.sql file. This script will create a respective tables in the database.
   2. Import the .csv files with data to respective tables using the import tool. Please import the data in the order of tables' creation due to foreign keys constraints.
-  3. Individually run each query from queries.sql file to see the result of each query.
+  3. Individually run each query from queries.sql file to see the results of each query.
 
 ## Examples
 
